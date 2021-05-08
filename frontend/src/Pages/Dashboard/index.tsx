@@ -1,4 +1,4 @@
-import BarCharts from "components/BarCharts/Index";
+import BarCharts from "../../components/BarCharts/Index";
 import DataTable from "components/DataTable/Index";
 import DonutChart from "components/DonutChart/Index";
 import Footer from "components/Footer";
